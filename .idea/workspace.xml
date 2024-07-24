@@ -10,15 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f1ba86-2d3d-4217-9f4d-579e8ba04041" name="Changes" comment="solved">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mvc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/cars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/controller/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/service/CarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/model/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +40,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:KataAcademy/PP_2_2_2_spring-mvc.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:aleexqq/PP_2_2_2_spring-mvc.git&quot;,
     &quot;accountId&quot;: &quot;c5248c17-a71e-4316-b33d-1a8cbb095e6a&quot;
   }
 }</component>
@@ -76,7 +71,7 @@
     "Tomcat Server.Tomcat 9.0.91.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/spring-mvc-app1",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/PP_2_2_2_spring-mvc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -200,8 +195,18 @@
       <workItem from="1721674998673" duration="676000" />
       <workItem from="1721675697519" duration="7000" />
       <workItem from="1721721078413" duration="10000" />
-      <workItem from="1721721222049" duration="4977000" />
+      <workItem from="1721721222049" duration="5617000" />
+      <workItem from="1721812314000" duration="403000" />
     </task>
+    <task id="LOCAL-00001" summary="solved">
+      <option name="closed" value="true" />
+      <created>1721744295846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721744295846</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
