@@ -10,11 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f1ba86-2d3d-4217-9f4d-579e8ba04041" name="Changes" comment="solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/web/controller/CarController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/web/service/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/model/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/CarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/service/CarService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,7 @@
       <list>
         <option value="HTML File" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -67,6 +68,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Maven.spring-mvc [clean].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Tomcat Server.MyFirstServer.executor": "Run",
     "Tomcat Server.Tomcat 9.0.91.executor": "Run",
     "git-widget-placeholder": "master",
@@ -196,7 +198,8 @@
       <workItem from="1721675697519" duration="7000" />
       <workItem from="1721721078413" duration="10000" />
       <workItem from="1721721222049" duration="5617000" />
-      <workItem from="1721812314000" duration="403000" />
+      <workItem from="1721812314000" duration="1810000" />
+      <workItem from="1721922430923" duration="1366000" />
     </task>
     <task id="LOCAL-00001" summary="solved">
       <option name="closed" value="true" />
